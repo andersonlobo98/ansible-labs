@@ -27,7 +27,7 @@ Cada laboratório está organizado em um diretório separado contendo:
 - Uso de variáveis `ansible_connection`, `ansible_user`, `ansible_password`
 - Agrupamento de hosts e criação de grupos hierárquicos
 
-🗂 Arquivo de referência: [`lab01.md`](./lab01-inventory.md)
+🗂 Arquivo de referência: [`lab01.md`](./lab01.md)
 
 ---
 
